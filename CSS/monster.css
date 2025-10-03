@@ -1,0 +1,13 @@
+body {
+    background-image: url(../Images/Backgrounds/SwetiSettlementSky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title {
+    text-align: center;
+    background: linear-gradient(to bottom, lightgreen, rgb(245, 189, 84));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px black;
+}
